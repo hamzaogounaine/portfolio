@@ -1,0 +1,37 @@
+{
+  "HomePage": {
+    "description": "I am a recent graduate from OFPPT passionate about crafting beautiful digital experiences that blend creativity with cutting-edge technology.",
+    "viewWork": "View My Work",
+    "downloadCv": "Download my CV",
+    "cvEnglish": "English PDF",
+    "cvFrench": "French PDF",
+    "aboutTitle": "About Me",
+    "aboutParagraph1": "I'm a dedicated full-stack developer eager to create digital solutions that make a difference. My journey began with a curiosity about how things work, and it has evolved into a love for crafting elegant, user-centered experiences.",
+    "aboutParagraph2": "When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community. I believe in the power of collaboration and continuous learning."
+  },
+  
+    "ContactSection": {
+      "title": "Let's Work Together",
+      "getInTouchTitle": "Get in Touch",
+      "getInTouchDescription": "I'm always interested in new opportunities and exciting projects. Whether you have a question or just want to say hi, I'll try my best to get back to you!",
+      "emailLabel": "Email",
+      "phoneLabel": "Phone",
+      "locationLabel": "Location",
+      "emailValue": "ogounainehamza@gmail.com",
+      "phoneValue": "+212 6 7418 0102",
+      "locationValue": "San Francisco, CA",
+      "form": {
+        "nameLabel": "Name",
+        "namePlaceholder": "Your name",
+        "emailLabel": "Email",
+        "emailPlaceholder": "your@email.com",
+        "subjectLabel": "Subject",
+        "subjectPlaceholder": "Project inquiry",
+        "messageLabel": "Message",
+        "messagePlaceholder": "Tell me about your project...",
+        "sendButton": "Send Message",
+        "sendingMessage": "Sending..."
+      }
+    }
+  
+}

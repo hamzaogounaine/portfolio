@@ -1,0 +1,38 @@
+{
+  "HomePage": {
+    "description": "Je suis un jeune diplômé de l'OFPPT, passionné par la création de magnifiques expériences numériques qui allient créativité et technologie de pointe.",
+    "viewWork": "Voir mes travaux",
+    "downloadCv": "Télécharger mon CV",
+    "cvEnglish": "PDF Anglais",
+    "cvFrench": "PDF Français",
+    "aboutTitle": "À propos de moi",
+    "aboutParagraph1": "Je suis un développeur full-stack motivé, désireux de créer des solutions numériques qui font la différence. Mon parcours a commencé par une curiosité pour comprendre comment les choses fonctionnent, et il a évolué en un amour pour la création d’expériences élégantes et centrées sur l’utilisateur.",
+    "aboutParagraph2": "Quand je ne code pas, vous me trouverez en train d’explorer de nouvelles technologies, de contribuer à des projets open-source, ou de partager mes connaissances avec la communauté des développeurs. Je crois au pouvoir de la collaboration et de l’apprentissage continu."
+  },
+  
+    "ContactSection": {
+      "title": "Travaillons ensemble",
+      "getInTouchTitle": "Contactez-moi",
+      "getInTouchDescription": "Je suis toujours intéressé par de nouvelles opportunités et projets passionnants. Que vous ayez une question ou que vous souhaitiez simplement dire bonjour, je ferai de mon mieux pour vous répondre !",
+      "emailLabel": "Email",
+      "phoneLabel": "Téléphone",
+      "locationLabel": "Localisation",
+      "emailValue": "ogounainehamza@gmail.com",
+      "phoneValue": "+212 6 7418 0102",
+      "locationValue": "Agadir , Maroc",
+      "form": {
+        "nameLabel": "Nom",
+        "namePlaceholder": "Votre nom",
+        "emailLabel": "Email",
+        "emailPlaceholder": "votre@email.com",
+        "subjectLabel": "Sujet",
+        "subjectPlaceholder": "Demande de projet",
+        "messageLabel": "Message",
+        "messagePlaceholder": "Parlez-moi de votre projet...",
+        "sendButton": "Envoyer le message",
+        "sendingMessage": "Envoi en cours..."
+      }
+    
+  }
+  
+}
