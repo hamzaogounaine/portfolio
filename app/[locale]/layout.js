@@ -9,6 +9,9 @@ import Loader from "./Loader";
 export const metadata = {
   title: "Ogounaine Hamza",
   description: "Portfolio",
+  icons: {
+    icon: "/icon/favicon.ico", // or .png or .svg
+  },
 };
 
 export default async function LocaleLayout({ children, params }) {  
