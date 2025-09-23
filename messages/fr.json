@@ -1,0 +1,66 @@
+{
+  "Navbar": {
+    "home": "Accueil",
+    "about": "À propos",
+    "projects": "Projets",
+    "contact": "Contact",
+    "switchLanguage": "Changer la langue",
+    "toggleTheme": "Changer le thème",
+    "light": "Clair",
+    "dark": "Sombre"
+  },
+  "Hero": {
+    "subtitle": "Un développeur web junior",
+    "cta": "Voir mon travail"
+  },
+  "WhoIam": {
+    "altProfile": "Photo de profil",
+    "greeting": "Salut, je suis",
+    "title": "Développeur Full-Stack & Designer UI/UX",
+    "bio": "Je suis un développeur passionné avec plus de 5 ans d'expérience dans la création d'applications web belles et fonctionnelles. J'adore transformer des problèmes complexes en solutions simples et élégantes que les utilisateurs apprécient.",
+    "skillsTitle": "Compétences & Technologies",
+    "getInTouch": "Me Contacter",
+    "viewCV": "Voir le CV",
+    "cvFr": "Voir le CV (FR)",
+    "cvEn": "Voir le CV (EN)"
+  },
+  "ProjectsShowcase": {
+    "header": "Projets à la Une",
+    "subheader": "Une sélection de mes travaux récents, comprenant des applications full-stack, des applications mobiles et des solutions innovantes.",
+    "allProjects": "Tous les projets",
+    "featured": "À la Une",
+    "liveDemo": "Démo en direct",
+    "viewCode": "Voir le code",
+    "ctaText": "Intéressé par une collaboration ?",
+    "getInTouch": "Me Contacter",
+    "showDetails" : "Show details"
+
+  },
+  "Contact": {
+  "title": "Travaillons ensemble",
+  "subtitle": "Vous avez un projet en tête ? J’aimerais en savoir plus. Envoyez-moi un message et créons quelque chose d’exceptionnel ensemble.",
+  "form": {
+    "title": "Envoyer un message",
+    "description": "Remplissez le formulaire ci-dessous et je vous répondrai dès que possible.",
+    "name": "Votre nom",
+    "email": "Votre e-mail",
+    "message": "Votre message",
+    "button": "Envoyer le message"
+  },
+  "info": {
+    "title": "Me contacter",
+    "description": "N’hésitez pas à me joindre par l’un de ces moyens.",
+    "location": "Agadir, Maroc"
+  },
+  "social": {
+    "title": "Suivez-moi",
+    "description": "Retrouvez-moi sur les réseaux sociaux."
+  },
+  "availability": {
+    "title": "Disponible pour de nouveaux projets",
+    "description": "Actuellement ouvert aux nouvelles opportunités et collaborations en freelance."
+  }
+}
+
+
+}

@@ -1,0 +1,56 @@
+[
+    {
+      "slug": "film-guild",
+      "title": { "en": "Film Guild", "fr": "Film Guild" },
+      "description": {
+        "en": "A platform to watch movies and TV shows online with advanced features",
+        "fr": "Une plateforme pour regarder des films et des séries TV en ligne avec des fonctionnalités avancées"
+      },
+      "longDescription": {
+        "en": "Film Guild is a comprehensive streaming platform that allows users to watch movies and TV shows with an intuitive interface. The platform features search, watchlist, detailed movie and TV info, and episode tracking. Users can create accounts, manage their profiles, and enjoy a seamless viewing experience across all devices.",
+        "fr": "Film Guild est une plateforme de streaming complète qui permet aux utilisateurs de regarder des films et des séries TV avec une interface intuitive. La plateforme propose la recherche, la liste de suivi, des informations détaillées sur les films et séries, ainsi que le suivi des épisodes. Les utilisateurs peuvent créer des comptes, gérer leur profil et profiter d'une expérience de visionnage fluide sur tous les appareils."
+      },
+      "images": [
+        { "url": "/filmguild/hero.png", "caption": { "en": "Hero section with featured movies and TV shows", "fr": "Section principale avec films et séries en vedette" } },
+        { "url": "/filmguild/filmguild.png", "caption": { "en": "Homepage overview", "fr": "Vue d'ensemble de la page d'accueil" } },
+        { "url": "/filmguild/login.png", "caption": { "en": "User login page", "fr": "Page de connexion utilisateur" } },
+        { "url": "/filmguild/signup.png", "caption": { "en": "User signup page", "fr": "Page d'inscription utilisateur" } },
+        { "url": "/filmguild/movieinfo.png", "caption": { "en": "Detailed movie information page", "fr": "Page d'information détaillée sur les films" } },
+        { "url": "/filmguild/tvinfo.png", "caption": { "en": "Detailed TV show information page", "fr": "Page d'information détaillée sur les séries TV" } },
+        { "url": "/filmguild/tvdetails.png", "caption": { "en": "TV show details with episodes list", "fr": "Détails de la série TV avec liste des épisodes" } },
+        { "url": "/filmguild/tvexepisodes.png", "caption": { "en": "Example TV episodes page", "fr": "Exemple de page des épisodes TV" } },
+        { "url": "/filmguild/tvnetwork.png", "caption": { "en": "TV network information", "fr": "Informations sur le réseau TV" } },
+        { "url": "/filmguild/tvsection.png", "caption": { "en": "TV sections overview", "fr": "Vue d'ensemble des sections TV" } },
+        { "url": "/filmguild/tvsections.png", "caption": { "en": "Multiple TV sections", "fr": "Sections TV multiples" } },
+        { "url": "/filmguild/tvwatch.png", "caption": { "en": "Watching TV show", "fr": "Regarder une série TV" } },
+        { "url": "/filmguild/watch.png", "caption": { "en": "Watching movies", "fr": "Regarder des films" } },
+        { "url": "/filmguild/watchlist.png", "caption": { "en": "User watchlist", "fr": "Liste de suivi de l'utilisateur" } }
+      ],
+      "techStack": ["Next.js", "Shadcn Ui", "Tailwind CSS", "TMDB API", "Supabase " ,"NextAuth.js"],
+      "liveUrl": "https://movies.ogounainehamza.me/",
+      "githubUrl": "https://github.com/hamzaogounaine/film-guild",
+      "date": "September 2025",
+      "client": "Film Guild",
+      "category": "Streaming Platform",
+      "features": {
+        "en": [
+          "Responsive design optimized for all devices",
+          "User authentication and profile management",
+          "Search and filter movies and TV shows",
+          "Watchlist to save favorite content",
+          "Detailed movie and TV show information",
+          "Episode tracking for TV shows",
+          "Seamless streaming experience"
+        ],
+        "fr": [
+          "Design réactif optimisé pour tous les appareils",
+          "Authentification des utilisateurs et gestion des profils",
+          "Recherche et filtrage de films et séries TV",
+          "Liste de suivi pour enregistrer les contenus favoris",
+          "Informations détaillées sur les films et séries TV",
+          "Suivi des épisodes des séries TV",
+          "Expérience de streaming fluide"
+        ]
+      }
+    }
+  ]
