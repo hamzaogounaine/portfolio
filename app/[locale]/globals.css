@@ -164,6 +164,24 @@ body {
   letter-spacing: var(--tracking-normal);
 }
 
+@font-face {
+  font-family: 'comico';
+  src: url('../../public/fonts/Comico-Regular.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'satoshi';
+  src: url('../../public/fonts/Satoshi-Medium.woff2') format('woff2');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+
+
 @layer base {
   * {
     @apply border-border outline-ring/50 ;

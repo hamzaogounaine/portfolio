@@ -24,9 +24,7 @@ export default async function LocaleLayout({ children, params }) {
   
   return (
     <html lang="en">
-      <head>
-      <link href="https://api.fontshare.com/v2/css?f[]=satoshi@501&f[]=comico@400&f[]=kalam@400,700&display=swap" rel="stylesheet" />        </head>
-      <body>
+    <body>
         <NextIntlClientProvider>
           <ThemeProvider
             attribute="class"
