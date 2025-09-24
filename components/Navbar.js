@@ -70,7 +70,7 @@ export function Navbar() {
   };
 
   const navLinks = [
-    { name: t("home"), href: "home" },
+    { name: t("home"), href: "/" , type: 'link'},
     { name: t("about"), href: "about" },
     { name: t("projects"), href: "projects" },
     { name: t("contact"), href: "contact" },
@@ -104,7 +104,8 @@ export function Navbar() {
                   onClick={() => scrollToSection(link.href)}
                   className="text-foreground hover:text-primary px-3 py-2 text-sm font-medium transition-colors duration-200 hover:bg-accent/10 rounded-md"
                 >
-                  {link.name}
+                  {link.type === 'link' && <Link href={link.href}>{link.name}</Link>}
+                  {!link.type && link.name}
                 </button>
               ))}
             </div>
@@ -186,7 +187,8 @@ export function Navbar() {
                 }}
                 className="text-foreground hover:text-primary block w-full text-left px-3 py-2 text-base font-medium transition-colors duration-200 hover:bg-accent/10 rounded-md"
               >
-                {link.name}
+                {link.type === 'link' && <Link href={link.href}>{link.name}</Link>}
+                {!link.type && link.name}
               </button>
             ))}
 
